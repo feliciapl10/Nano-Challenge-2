@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E14CE1D82892562100F03298 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E14CE1D72892562100F03298 /* SplashScreenView.swift */; };
 		E152C38F2889478600458B83 /* Nano_Challenge_2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E152C38E2889478600458B83 /* Nano_Challenge_2App.swift */; };
 		E152C3912889478600458B83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E152C3902889478600458B83 /* ContentView.swift */; };
 		E152C3932889478700458B83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E152C3922889478700458B83 /* Assets.xcassets */; };
@@ -14,6 +15,22 @@
 		E152C3A02889478800458B83 /* Nano_Challenge_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E152C39F2889478800458B83 /* Nano_Challenge_2Tests.swift */; };
 		E152C3AA2889478800458B83 /* Nano_Challenge_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E152C3A92889478800458B83 /* Nano_Challenge_2UITests.swift */; };
 		E152C3AC2889478800458B83 /* Nano_Challenge_2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E152C3AB2889478800458B83 /* Nano_Challenge_2UITestsLaunchTests.swift */; };
+		E154F3FE2890FDD30016AF72 /* Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = E154F3FD2890FDD30016AF72 /* Intro.swift */; };
+		E154F4002890FEAF0016AF72 /* OffsetPageTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E154F3FF2890FEAF0016AF72 /* OffsetPageTabView.swift */; };
+		E154F402289136420016AF72 /* LayoutOrganizationPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E154F401289136420016AF72 /* LayoutOrganizationPage.swift */; };
+		E1673E85288FEF9F00DC4BDA /* Onboarding3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1673E84288FEF9F00DC4BDA /* Onboarding3.swift */; };
+		E1673E87288FEFAE00DC4BDA /* Onboarding1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1673E86288FEFAE00DC4BDA /* Onboarding1.swift */; };
+		E1673E89288FF04A00DC4BDA /* Onboarding2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1673E88288FF04A00DC4BDA /* Onboarding2.swift */; };
+		E1673E8B288FF30200DC4BDA /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1673E8A288FF30200DC4BDA /* Extensions.swift */; };
+		E1673E8D2890003F00DC4BDA /* Onboarding4.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1673E8C2890003F00DC4BDA /* Onboarding4.swift */; };
+		E1DECAE42890450A00DBA4E4 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAE32890450A00DBA4E4 /* Home.swift */; };
+		E1DECAE62890473C00DBA4E4 /* LessonCompleted.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAE52890473C00DBA4E4 /* LessonCompleted.swift */; };
+		E1DECAE828904D9D00DBA4E4 /* ContentPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAE728904D9D00DBA4E4 /* ContentPage.swift */; };
+		E1DECAEA28904DC200DBA4E4 /* ImageViewPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAE928904DC200DBA4E4 /* ImageViewPage.swift */; };
+		E1DECAEC28904DDA00DBA4E4 /* QuestionsOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAEB28904DDA00DBA4E4 /* QuestionsOne.swift */; };
+		E1DECAEE28904DE400DBA4E4 /* QuestionsTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAED28904DE400DBA4E4 /* QuestionsTwo.swift */; };
+		E1DECAF028904DEE00DBA4E4 /* QuestionsThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAEF28904DEE00DBA4E4 /* QuestionsThree.swift */; };
+		E1DECAF428904E5900DBA4E4 /* ProfilePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1DECAF328904E5900DBA4E4 /* ProfilePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +51,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E14CE1D72892562100F03298 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		E152C38B2889478600458B83 /* Nano Challenge 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nano Challenge 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E152C38E2889478600458B83 /* Nano_Challenge_2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nano_Challenge_2App.swift; sourceTree = "<group>"; };
 		E152C3902889478600458B83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +62,22 @@
 		E152C3A52889478800458B83 /* Nano Challenge 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nano Challenge 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E152C3A92889478800458B83 /* Nano_Challenge_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nano_Challenge_2UITests.swift; sourceTree = "<group>"; };
 		E152C3AB2889478800458B83 /* Nano_Challenge_2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nano_Challenge_2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E154F3FD2890FDD30016AF72 /* Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intro.swift; sourceTree = "<group>"; };
+		E154F3FF2890FEAF0016AF72 /* OffsetPageTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetPageTabView.swift; sourceTree = "<group>"; };
+		E154F401289136420016AF72 /* LayoutOrganizationPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutOrganizationPage.swift; sourceTree = "<group>"; };
+		E1673E84288FEF9F00DC4BDA /* Onboarding3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding3.swift; sourceTree = "<group>"; };
+		E1673E86288FEFAE00DC4BDA /* Onboarding1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding1.swift; sourceTree = "<group>"; };
+		E1673E88288FF04A00DC4BDA /* Onboarding2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding2.swift; sourceTree = "<group>"; };
+		E1673E8A288FF30200DC4BDA /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		E1673E8C2890003F00DC4BDA /* Onboarding4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding4.swift; sourceTree = "<group>"; };
+		E1DECAE32890450A00DBA4E4 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		E1DECAE52890473C00DBA4E4 /* LessonCompleted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonCompleted.swift; sourceTree = "<group>"; };
+		E1DECAE728904D9D00DBA4E4 /* ContentPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentPage.swift; sourceTree = "<group>"; };
+		E1DECAE928904DC200DBA4E4 /* ImageViewPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewPage.swift; sourceTree = "<group>"; };
+		E1DECAEB28904DDA00DBA4E4 /* QuestionsOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionsOne.swift; sourceTree = "<group>"; };
+		E1DECAED28904DE400DBA4E4 /* QuestionsTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionsTwo.swift; sourceTree = "<group>"; };
+		E1DECAEF28904DEE00DBA4E4 /* QuestionsThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionsThree.swift; sourceTree = "<group>"; };
+		E1DECAF328904E5900DBA4E4 /* ProfilePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +128,27 @@
 		E152C38D2889478600458B83 /* Nano Challenge 2 */ = {
 			isa = PBXGroup;
 			children = (
+				E152C3922889478700458B83 /* Assets.xcassets */,
 				E152C38E2889478600458B83 /* Nano_Challenge_2App.swift */,
 				E152C3902889478600458B83 /* ContentView.swift */,
-				E152C3922889478700458B83 /* Assets.xcassets */,
+				E1673E8A288FF30200DC4BDA /* Extensions.swift */,
+				E154F3FD2890FDD30016AF72 /* Intro.swift */,
+				E154F3FF2890FEAF0016AF72 /* OffsetPageTabView.swift */,
+				E1673E86288FEFAE00DC4BDA /* Onboarding1.swift */,
+				E1673E88288FF04A00DC4BDA /* Onboarding2.swift */,
+				E1673E84288FEF9F00DC4BDA /* Onboarding3.swift */,
+				E1673E8C2890003F00DC4BDA /* Onboarding4.swift */,
+				E1DECAE32890450A00DBA4E4 /* Home.swift */,
+				E1DECAE728904D9D00DBA4E4 /* ContentPage.swift */,
+				E154F401289136420016AF72 /* LayoutOrganizationPage.swift */,
+				E1DECAE928904DC200DBA4E4 /* ImageViewPage.swift */,
+				E1DECAEB28904DDA00DBA4E4 /* QuestionsOne.swift */,
+				E1DECAED28904DE400DBA4E4 /* QuestionsTwo.swift */,
+				E1DECAEF28904DEE00DBA4E4 /* QuestionsThree.swift */,
+				E1DECAE52890473C00DBA4E4 /* LessonCompleted.swift */,
+				E1DECAF328904E5900DBA4E4 /* ProfilePage.swift */,
 				E152C3942889478700458B83 /* Preview Content */,
+				E14CE1D72892562100F03298 /* SplashScreenView.swift */,
 			);
 			path = "Nano Challenge 2";
 			sourceTree = "<group>";
@@ -257,8 +308,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1DECAEE28904DE400DBA4E4 /* QuestionsTwo.swift in Sources */,
+				E1DECAE828904D9D00DBA4E4 /* ContentPage.swift in Sources */,
+				E154F3FE2890FDD30016AF72 /* Intro.swift in Sources */,
 				E152C3912889478600458B83 /* ContentView.swift in Sources */,
+				E1673E8B288FF30200DC4BDA /* Extensions.swift in Sources */,
+				E1673E87288FEFAE00DC4BDA /* Onboarding1.swift in Sources */,
+				E1673E89288FF04A00DC4BDA /* Onboarding2.swift in Sources */,
+				E154F4002890FEAF0016AF72 /* OffsetPageTabView.swift in Sources */,
 				E152C38F2889478600458B83 /* Nano_Challenge_2App.swift in Sources */,
+				E1DECAEC28904DDA00DBA4E4 /* QuestionsOne.swift in Sources */,
+				E1DECAE62890473C00DBA4E4 /* LessonCompleted.swift in Sources */,
+				E1DECAEA28904DC200DBA4E4 /* ImageViewPage.swift in Sources */,
+				E1DECAF028904DEE00DBA4E4 /* QuestionsThree.swift in Sources */,
+				E1673E85288FEF9F00DC4BDA /* Onboarding3.swift in Sources */,
+				E1DECAF428904E5900DBA4E4 /* ProfilePage.swift in Sources */,
+				E154F402289136420016AF72 /* LayoutOrganizationPage.swift in Sources */,
+				E14CE1D82892562100F03298 /* SplashScreenView.swift in Sources */,
+				E1DECAE42890450A00DBA4E4 /* Home.swift in Sources */,
+				E1673E8D2890003F00DC4BDA /* Onboarding4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
